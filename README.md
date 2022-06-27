@@ -3,4 +3,4 @@
 
 Gerenciar os repositórios :)
 
-<a href="https://leodominoni.github.io/html-css/Exercicios/ex019/index.html"> Executar o exercício 019
+<a href="https://leodominoni.github.io/html-css/Exercicios/ex019/index.html"> Executar os exercícios
